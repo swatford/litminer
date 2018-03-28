@@ -4,3 +4,8 @@
 !*.py
 
 !*/
+.ipynb_checkpoints/
+!*.example
+mongo_connect.py
+
+
