@@ -1,7 +1,0 @@
-*
-!.gitignore
-!*.ipynb
-!*.py
-!*.example
-mongo_connect.py
-!*/
